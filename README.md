@@ -6,3 +6,4 @@ Resumão de Javascript
 - Definição e uso de módulos com import
 - Definição e uso de funções
 - Definição e uso de objetos / JSON
+- Objeto document (DOM)
